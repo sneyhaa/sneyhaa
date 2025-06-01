@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Data Analyst. 
-I am interested in working in product data analytics and predictions to improve business functions. 
-I use Python, SQL, Tableau primarily to explore and investigate datasets. 
+I am a Data Analyst with a Masters in Data Science. My interests lie in working on product data science roles that would allow me to improve business functions and/or enhance customer experience and achieve business goals. I enjoy transforming messy data to organizational gold and want to make the process as simple, accessible and easily understandabe for all. 

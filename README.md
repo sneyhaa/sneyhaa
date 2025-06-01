@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sneha! 👋
 
 <!--
 **sneyhaa/sneyhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a data analyst and DS graduate who loves playing with data and creating solutions for different business functions.

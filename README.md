@@ -1,4 +1,4 @@
-## Hi, I'm Sneha! 👋
+## Nice to meet you!👋
 
 <!--
 **sneyhaa/sneyhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Data Analyst with a Masters in Data Science. My interests lie in working on product data science roles that would allow me to improve business functions and/or enhance customer experience and achieve business goals. I enjoy transforming messy data to organizational gold and want to make the process as simple, accessible and easily understandabe for all. 
+Hi, I'm Sneha! 
+I am a Data Science graduate/ Data Analyst. I enjoy working with messy data to generate more meaning from it. 
+My main focus as a data professional is to make data accessible and understandable for all. I am able to achieve that by:
+- Using my skills in Python, SQL, Tableau to actually clean, analyze and visually present insights I find along the way
+- Writing blogs every now and then about topics in the Data and Tech space (refer to my medium blog) to stay informed and keep informed

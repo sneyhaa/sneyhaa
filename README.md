@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data analyst and DS graduate who loves playing with data and creating solutions for different business functions.
+I'm a Data Analyst. 
+I am interested in working in product data analytics and predictions to improve business functions. 
+I use Python, SQL, Tableau primarily to explore and investigate datasets. 

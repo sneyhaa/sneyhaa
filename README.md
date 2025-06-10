@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Sneha! 
-I am a Data Science graduate/ Data Analyst. I enjoy working with messy data to generate more meaning from it. 
-My main focus as a data professional is to make data accessible and understandable for all. I am able to achieve that by:
-- Using my skills in Python, SQL, Tableau to actually clean, analyze and visually present insights I find along the way
-- Writing blogs every now and then about topics in the Data and Tech space (refer to my medium blog) to stay informed and keep informed
+Hello, I'm Sneha. 
+Data scientist passionate about quantifying uncertainty and turning complex business questions into measurable insights through experimentation.
+I have a Master's in Data Science from Michigan Tech. Previously, I've automated reporting frameworks that saved 32+ hours monthly, built ML models achieving 73% accuracy on imbalanced data, and created executive dashboards driving $50K budget reallocations.
+
+- Expertise:
+  - Machine Learning, Data Visualization, Business Intelligence, Data Engineering, ETL Pipelines
+- Tools:
+  - Python, SQL, R, Tableau, Power BI, AWS, Spark, Julia
+
